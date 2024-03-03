@@ -1,0 +1,138 @@
+/* body {
+    background: #FFFFFF;
+    ;
+    font-family: verdana;
+
+    .header{
+        background: #FFFFFF;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+      }
+  } 
+  */
+
+  .custom-header {
+    background-color: #FFFFFF; /* Set your desired background color */
+    /* color: #ffffff; Set your desired text color */
+    padding: 15px 0; /* Adjust the padding as needed */
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .logo {
+    max-height: 40px; /* Set your desired height for the logo */
+  }
+
+  .site-title {
+   text-align: center;
+    color: #309201;
+    margin-top: 15px;
+    
+    h5 {
+       font-size: 24px;
+       line-height: 24px;
+       font-weight: 700; 
+       /* font-family: 'Arca Majora 3 Heavy', sans-serif; Apply the custom font */
+    }
+  }
+
+  .centered-card {
+    width: 816px;
+    height: 416px;
+    background: #F9F1EA;
+    margin: auto; /* Center the card horizontally */
+    margin-top: 50px; /* Add top margin as needed */
+    /* box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1); Add drop shadow */
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 10px;
+    /* font-family: 'Arca Majora 3 Heavy', sans-serif; Apply the custom font */
+  }
+
+  .title-1{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+  }
+
+  .title-2{
+    margin-top: 40px;
+    font-size: 24px;
+    font-weight: 700px;
+    line-height: 24px;
+  }
+  .login-buttton{
+    background: #309201;
+    border-radius: 20px;
+  }
+  
+
+  .modal.custom .login-modal .modal-content .modal-header {
+    justify-content: end !important;
+    border-bottom: none !important;
+    button {
+      border: none !important;
+      background: #ffff !important;
+      color:#A5A5A5;
+    }
+  }
+
+  .modal.custom .login-modal .modal-content {
+    width: 481px !important;
+    height: 386px !important;
+  }
+
+  /* Sidebar */
+.sidebar {
+  position: fixed;
+  top: 90px;
+  bottom: 0;
+  left: 0;
+  padding: 58px 0 0; /* Height of navbar */
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 5%), 0 2px 10px 0 rgb(0 0 0 / 5%);
+  width: 245px;
+  z-index: 600;
+}
+
+ .nav-link .active {
+  background-color: #309201;
+  
+}
+.nav-link{
+  color : #646464 !important
+}
+.sidebar ul li .nav-link:hover {
+  background-color: #309201;
+  color: #FFFFFF !important;
+}
+.sidebar .nav-pills .nav-link.active{
+  background-color: #309201;
+  color: #FFFFFF !important;
+}
+
+#myTable_wrapper .dataTables_length {
+  display: none !important;
+}
+.top-actions{
+  display: flex;
+  flex-direction: row;
+}
+
+/* @media (max-width: 991.98px) {
+  .sidebar {
+    width: 100%;
+  }
+}
+.sidebar .active {
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.sidebar-sticky {
+  position: relative;
+  top: 0;
+  height: calc(100vh - 48px);
+  padding-top: 0.5rem;
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+
+

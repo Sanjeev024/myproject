@@ -1,0 +1,103 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GangaGen</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="{% static 'home.css' %}" />
+    <link
+      href="https://fonts.cdnfonts.com/css/arca-majora-3"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+
+  </head>
+  <body>
+    <div class="container-fluid">
+      <!-- Bootstrap row for the header -->
+      <div class="row custom-header">
+        <!-- Bootstrap column for the logo -->
+        <div class="col-md-2">
+          <img
+            src="/static/images/gangagen-logo.jpg"
+            alt="Logo"
+            width="199"
+            height="61"
+            class="d-inline-block align-text-top"
+          />
+        </div>
+
+        <!-- Bootstrap column for the site title -->
+        <div class="col-md-8 site-title">
+          <h5>GangaGen AI EctoLysin - Powered by Orbuculum</h5>
+        </div>
+
+        <div class="col-md-2 site-title"></div>
+      </div>
+      <!-- End of header row -->
+    </div>
+    <!-- End of container -->
+
+    {% block body %} {% endblock body %}
+
+     <!-- DataTables JS -->
+     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+    
+     <script>
+        jQuery(document).ready(function($) {
+            $('#myTable').DataTable({
+                dom: '<"top"l>rt<"bottom"ip><"clear">',
+                lengthMenu: [ [10], [10] ],
+                initComplete: function () {
+                    // Create a custom search input and append it to the top left corner
+                   // $(`<div class="mb-3 top-actions">
+                      //  <label for="exampleFormControlInput1" class="form-label">Enter Name</label>
+                     //   <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter Name">
+                   // </div>`).appendTo('.top');
+                    
+                    
+                    
+                    
+                    // Apply DataTables search functionality to the custom input
+                    $('#exampleFormControlInput1').on('keyup', function() {
+                        $('#myTable').DataTable().search(this.value).draw();
+                    });
+                    
+                    $('.dataTables_length').hide();
+                     
+                },
+                columnDefs: [
+            {
+                targets: [0], // Assuming "name" is the first column (index 0)
+                searchable: true
+            },
+            {
+                targets: [1, 2, 3], // Assuming other columns are not searchable
+                searchable: false
+            }
+        ]
+            });
+            // $("#newSearchPlace").html($(".dataTables_filter"));
+        });
+    </script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Bootstrap JavaScript and dependencies (Optional) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
