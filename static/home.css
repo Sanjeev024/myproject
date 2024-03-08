@@ -12,87 +12,98 @@
   } 
   */
 
-  @font-face {
-    font-family: 'Arca Majora 3 Heavy';
-    src: local('Arca Majora 3 Heavy'), url('./fonts/ArcaMajora3-Bold.woff') format('woff');
-    /* Add additional formats if needed (e.g., 'ttf', 'otf') */
+@font-face {
+  font-family: "Arca Majora 3 Heavy";
+  src: local("Arca Majora 3 Heavy"),
+    url("./fonts/ArcaMajora3-Bold.woff") format("woff");
+  /* Add additional formats if needed (e.g., 'ttf', 'otf') */
 }
 
-  .custom-header {
-    background-color: #FFFFFF; /* Set your desired background color */
-    /* color: #ffffff; Set your desired text color */
-    padding: 15px 0; /* Adjust the padding as needed */
-    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
-  }
+.custom-header {
+  background-color: #ffffff; /* Set your desired background color */
+  /* color: #ffffff; Set your desired text color */
+  padding: 15px 0; /* Adjust the padding as needed */
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
 
-  .logo {
-    max-height: 40px; /* Set your desired height for the logo */
-  }
+.logo {
+  max-height: 40px; /* Set your desired height for the logo */
+}
 
-  .site-title {
-   text-align: center;
-    color: #309201;
-    margin-top: 15px;
+.site-title {
+  text-align: center;
+  color: #309201;
+  margin-top: 15px;
 
-    
-    
-    h5 {
-       font-size: 24px;
-       line-height: 24px;
-       font-weight: 700; 
-       font-family: 'Arca Majora 3 Heavy' 
-    }
-  }
-
-  .centered-card {
-    width: 816px;
-    height: 416px;
-    background: #F9F1EA;
-    margin: auto; /* Center the card horizontally */
-    margin-top: 150px !important; /* Add top margin as needed */
-    /* box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1); Add drop shadow */
-    padding: 20px; /* Adjust padding as needed */
-    border-radius: 10px;
-    /* font-family: 'Arca Majora 3 Heavy', sans-serif; Apply the custom font */
-  }
-
-  .title-1{
-    font-size: 32px;
-    font-weight: 700;
-    line-height: 32px;
-    font-family: 'Arca Majora 3 Heavy'
-  }
-
-  .title-2{
-    margin-top: 40px;
+  h5 {
     font-size: 24px;
-    font-weight: 700px;
     line-height: 24px;
-    font-family: 'Arca Majora 3 Heavy'
+    font-weight: 700;
+    font-family: "Arca Majora 3 Heavy";
   }
-  .login-buttton{
-    background: #309201;
-    border-radius: 20px;
-    font-family: 'Roboto';
+}
+
+.centered-card {
+  width: 816px;
+  height: 416px;
+  background: #f9f1ea;
+  margin: auto; /* Center the card horizontally */
+  margin-top: 150px !important; /* Add top margin as needed */
+  /* box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1); Add drop shadow */
+  padding: 20px; /* Adjust padding as needed */
+  border-radius: 10px;
+  /* font-family: 'Arca Majora 3 Heavy', sans-serif; Apply the custom font */
+}
+
+.title-1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
+  font-family: "Arca Majora 3 Heavy";
+}
+
+.title-2 {
+  margin-top: 40px;
+  font-size: 24px;
+  font-weight: 700px;
+  line-height: 24px;
+  font-family: "Arca Majora 3 Heavy";
+}
+.login-buttton {
+  background: #309201;
+  border-radius: 20px;
+  font-family: "Roboto";
+  font-size: 15px;
+}
+
+.modal.custom .login-modal .modal-content .modal-header {
+  justify-content: end !important;
+  border-bottom: none !important;
+  button {
+    border: none !important;
+    background: #ffff !important;
+    color: #a5a5a5;
   }
+}
+
+.modal.custom .login-modal .modal-content {
+  width: 481px !important;
+  height: 368px !important;
   
+}
 
-  .modal.custom .login-modal .modal-content .modal-header {
-    justify-content: end !important;
-    border-bottom: none !important;
-    button {
-      border: none !important;
-      background: #ffff !important;
-      color:#A5A5A5;
-    }
+/* .modal.custom .login-modal .modal-body {
+  .title-3 {
+    width: 221px !important;
+    height: 24px !important;
   }
-
-  .modal.custom .login-modal .modal-content {
-    width: 481px !important;
-    height: 386px !important;
+  .input-code {
+    width: 381px !important;
+    height: 38px !important;
   }
+} */
 
-  /* Sidebar */
+/* Sidebar */
 .sidebar {
   position: fixed;
   top: 90px;
@@ -104,26 +115,25 @@
   z-index: 600;
 }
 
- .nav-link .active {
+.nav-link .active {
   background-color: #309201;
-  
 }
-.nav-link{
-  color : #646464 !important
+.nav-link {
+  color: #646464 !important;
 }
 .sidebar ul li .nav-link:hover {
   background-color: #309201;
-  color: #FFFFFF !important;
+  color: #ffffff !important;
 }
-.sidebar .nav-pills .nav-link.active{
+.sidebar .nav-pills .nav-link.active {
   background-color: #309201;
-  color: #FFFFFF !important;
+  color: #ffffff !important;
 }
 
 #myTable_wrapper .dataTables_length {
   display: none !important;
 }
-.top-actions{
+.top-actions {
   display: flex;
   flex-direction: row;
 }
@@ -145,5 +155,3 @@
   padding-top: 0.5rem;
   overflow-x: hidden;
   overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-
-
