@@ -47,7 +47,17 @@
           <h5>GangaGen AI EctoLysin - Powered by Orbuculum</h5>
         </div>
 
-        <div class="col-md-2 site-title"></div>
+        <div class="col-md-2 site-title">
+          {% if user.is_authenticated %}
+              <!-- Display access_code only if the user is authenticated -->
+              <h4 class="access_code"> Access Code: <span class="code"> {{ access_code }}  </span></h4>
+          {% else %}
+          {% comment %} <div class="alert alert-danger" role="alert">
+           {{error}}
+          </div> {% endcomment %}
+        
+          {% endif %}
+        </div>
       </div>
       <!-- End of header row -->
     </div>

@@ -52,6 +52,8 @@
 
         <!-- Modal Body -->
         <div class="modal-body">
+         <form action="/database" method="post" name="form_name" id="form_id" class="form_class" >
+          {% csrf_token%}
           <div class="px-4 my-3 text-center">
             <h5 class="title-3">Enter Your Access Code</h5>
             
@@ -64,25 +66,36 @@
                 placeholder="Enter Code"
                 aria-label="Enter Code"
                 aria-describedby="basic-addon1"
+                name='access_code'
               />
             </div>
             <div
               class="d-grid gap-2 d-sm-flex justify-content-sm-center mt-6"
             >
               <button
-                type="button"
+                type="submit"
                 class="btn btn-success btn-lg px-4 gap-3 login-buttton"
-              >
-                SUBMIT
-              </button>
+               
+              />
+              SUBMIT
+          </button>
+               
+          
             </div>
           </div>
+        </form>
         </div>
       </div>
     </div>
   </div>
+  
   <!-- End of centered card row -->
 </div>
+<script type="javascript">
+  function handleClick(){
+    let access_code = document.getElementById('access_code');
+  }
+</script>
 <!-- End of container -->
 
 {% endblock body %}

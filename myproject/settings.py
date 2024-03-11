@@ -83,6 +83,12 @@ DATABASES = {
     }
 }
 
+AUTH_USER_MODEL = 'gangaGen.CustomUser'
+
+AUTHENTICATION_BACKENDS = [
+    'gangaGen.custom_auth_backend.AccessCodeBackend',
+    'django.contrib.auth.backends.ModelBackend',
+]
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
@@ -129,3 +135,4 @@ STATICFILES_DIRS = [
     BASE_DIR / "static",
     "/var/www/static/",
 ]
+

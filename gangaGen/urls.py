@@ -4,5 +4,6 @@ from gangaGen import views
 
 urlpatterns = [
     path('', views.home, name='home'),
-    path('database', views.database, name='database')
+    path('database', views.database, name='database'),
+    path('logout/', views.logout_view, name='logout'),
 ]

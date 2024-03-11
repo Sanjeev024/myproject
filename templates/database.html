@@ -1,2 +1,248 @@
-{% extends "layout.html" %} {% block layout-body %} 
+{% extends "layout.html" %} {% block layout-body %}
+<div class="container-fluid">
+  <!-- Bootstrap row for the header -->
+  <div class="row">
+    <div class="col-lg-4 mt-4">
+      <div class="form-group">
+        <label for="exampleInputEmail1">Enter Name</label>
+        <input
+          type="text"
+          class="form-control"
+          id="exampleInputEmail1"
+          aria-describedby="emailHelp"
+          placeholder="Enter Name"
+        />
+      </div>
+    </div>
+    <div class="col-lg-3 mt-4">
+      <div class="form-group">
+        <label for="exampleFormControlSelect1">Select Organism</label>
+        <select class="form-control" id="exampleFormControlSelect1">
+          <option>E-coli K-12</option>
+          <option>E-coli K-12</option>
+        </select>
+      </div>
+    </div>
+    <div class="col-lg-4 mt-4">
+      <div class="form-group">
+        <label for="exampleFormControlSelect1">Select Domain</label>
+        <select class="form-control" id="exampleFormControlSelect1">
+          <option>Amidase-S (PF053)</option>
+          <option>Amidase-S (PF053)</option>
+        </select>
+      </div>
+    </div>
+    <div class="col-lg-1 mt-5">
+      <button type="button" class="btn btn-light custom-button">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="16"
+          height="16"
+          fill="currentColor"
+          class="bi bi-search custon-icon"
+          viewBox="0 0 16 16"
+        >
+          <path
+            d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-11 mt-4">
+      <table class="table database table">
+        <thead class="table-header">
+          <tr>
+            <th scope="col">
+              <input class="form-check-input" type="checkbox" id="checkbox1" />
+              ID
+            </th>
+            <th scope="col">Name</th>
+            <th scope="col">Organism</th>
+            <th scope="col">Domains</th>
+          </tr>
+        </thead>
+        <tbody class="table-body">
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  id="checkbox1"
+                />
+                <label class="form-check-label" for="checkbox1">XABC</label>
+              </div>
+            </td>
+
+            <td>Git-Synthase</td>
+            <td>E-coli K-12</td>
+            <td>Amidase-S (PF053)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
 {% endblock layout-body %}

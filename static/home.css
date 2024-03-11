@@ -138,6 +138,48 @@
   flex-direction: row;
 }
 
+.access_code {
+
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: "Arca Majora 3 Heavy";
+  color: #309201;
+}
+
+.code {
+  word-spacing: 2px;
+}
+
+.custom-button {
+  background-color: #309201;
+  color: white;
+}
+
+/* Custom styles for the search icon */
+.custom-icon {
+  fill: white;
+}
+.database table{
+  font-family: "Roboto" !important;
+  font-size: 16px !important;
+ 
+}
+.table-header{
+  height: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.table-header tr th {
+  background-color: #FFDEBC;
+  font-family: "Roboto";
+  font-weight: normal !important;
+}
+
+.table-body tr td {
+  color: #646464;
+  height: 40px;
+}
 /* @media (max-width: 991.98px) {
   .sidebar {
     width: 100%;
