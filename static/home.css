@@ -180,6 +180,96 @@
   color: #646464;
   height: 40px;
 }
+
+.page-link{
+  color: #309201;
+ 
+}
+.page-link:active{
+  background-color: #309201 !important;
+  color: #ffffff;
+}
+.active {
+  .page-link {
+    background-color: #309201 !important;
+    border-color: #309201 !important;
+   
+  }
+  
+}
+.export-button{
+  border-radius: 25px;
+    width: 129px;
+    height: 50px;
+    color: #309201;
+}
+.export-button:hover{
+  border-radius: 25px;
+    width: 129px;
+    height: 50px;
+    background-color: #309201 !important;
+    color: #ffffff;
+}
+.save-button{
+  margin: 0px 0px 0px 20px;
+  border-radius: 25px;
+    width: 129px;
+    height: 50px;
+    color: #309201;
+}
+.save-button:hover{
+  border-radius: 25px;
+    width: 129px;
+    height: 50px;
+    background-color: #309201 !important;
+    color: #ffffff;
+}
+thead tr th {
+  background-color: #FFDEBC !important;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  height: 50px !important;
+}
+
+/* Style the tooltip container */
+.nightingale-tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style the tooltip text */
+.nightingale-tooltip::after {
+  content: attr(title);
+  position: absolute;
+  visibility: hidden;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+/* Show the tooltip text on hover */
+.inner-rectangle:hover::after {
+  visibility: visible;
+}
+
+.outer-rectangle {
+  width: 100%; /* Adjusted to fill the entire table cell */
+  /* Adjusted height to fit within the table cell */
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 25px;
+  position: relative;
+}
+.inner-rectangle {
+  height: 100%;
+  border-radius: 25px;
+  background-color: #ffcc00; /* Highlight color */
+  position: absolute;
+  left: 0; /* Adjusted to start from the left edge of the outer rectangle */
+  /* width: calc(((140 - {{ protein.start }}) / 180) * 100%); */
+}
 /* @media (max-width: 991.98px) {
   .sidebar {
     width: 100%;

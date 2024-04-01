@@ -1,0 +1,3422 @@
+[
+    {
+        "Id": "A0A014N7H3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia mallotivora",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-160)"
+    },
+    {
+        "Id": "A0A014Q0X6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia mallotivora",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (29-167)"
+    },
+    {
+        "Id": "A0A059ZY12",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus caldus (strain ATCC 51756 / DSM 8584 / KU)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (103-255)"
+    },
+    {
+        "Id": "A0A059ZYA1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus caldus (strain ATCC 51756 / DSM 8584 / KU)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (214-336)"
+    },
+    {
+        "Id": "A0A060UVM1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus ferrivorans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (207-337)"
+    },
+    {
+        "Id": "A0A061QEB7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "alpha proteobacterium Q-1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (20-178)"
+    },
+    {
+        "Id": "A0A077ZQS7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylonychia lemnae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (85-215)"
+    },
+    {
+        "Id": "A0A078A200",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylonychia lemnae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (41-192)"
+    },
+    {
+        "Id": "A0A078AXC4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylonychia lemnae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (69-226)"
+    },
+    {
+        "Id": "A0A078AXK5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylonychia lemnae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (71-217)"
+    },
+    {
+        "Id": "A0A078B1N9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylonychia lemnae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (72-223)"
+    },
+    {
+        "Id": "A0A078B1P3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylonychia lemnae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (76-213)"
+    },
+    {
+        "Id": "A0A078M333",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas saudimassiliensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (262-319)"
+    },
+    {
+        "Id": "A0A084SH79",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Archangium violaceum Cb vi76",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (108-267)"
+    },
+    {
+        "Id": "A0A085G4I9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Ewingella americana ATCC 33852",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (569-674)"
+    },
+    {
+        "Id": "A0A098G0P4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Legionella fallonii LLAP-10",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3595-3752)"
+    },
+    {
+        "Id": "A0A098G245",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Legionella fallonii LLAP-10",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-128)"
+    },
+    {
+        "Id": "A0A099D0Y2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Oleiagrimonas soli",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (101-281)"
+    },
+    {
+        "Id": "A0A099KVX1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Colwellia psychrerythraea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A0A0EWW5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter arseniciresistens ZS79",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-157)"
+    },
+    {
+        "Id": "A0A0A8RMW2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (168-299)"
+    },
+    {
+        "Id": "A0A0D6BBI8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. Os17",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A0D8CUJ0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Thalassomonas actiniarum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A0E1NMK9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis bv. Antiqua (strain Antiqua)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0A0F4QT46",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marinomonas sp. S3726",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-159)"
+    },
+    {
+        "Id": "A0A0F6AF57",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas luteoviolacea S4054",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (81-166)"
+    },
+    {
+        "Id": "A0A0F7LBL1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "uncultured marine virus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (1194-1341)"
+    },
+    {
+        "Id": "A0A0H2YN12",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis bv. Antiqua (strain Nepal516)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0A0H3A5R8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio vulgaris subsp. vulgaris (strain DP4)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-132)"
+    },
+    {
+        "Id": "A0A0H4WN03",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus hansupus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (72-232)"
+    },
+    {
+        "Id": "A0A0K1QJ12",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas fluorescens NCIMB 11764",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (706-820)"
+    },
+    {
+        "Id": "A0A0K2TL62",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lepeophtheirus salmonis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (79-178)"
+    },
+    {
+        "Id": "A0A0K2UQZ4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lepeophtheirus salmonis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (80-178)"
+    },
+    {
+        "Id": "A0A0K2V7J9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lepeophtheirus salmonis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (103-195)"
+    },
+    {
+        "Id": "A0A0M2KC84",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia tracheiphila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (38-160)"
+    },
+    {
+        "Id": "A0A0N1LRH9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Novosphingobium sp. AAP83",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (151-314)"
+    },
+    {
+        "Id": "A0A0T6U6I6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas allosaccharophila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (643-771)"
+    },
+    {
+        "Id": "A0A0W1L5D2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas sp. H105",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-154)"
+    },
+    {
+        "Id": "A0A0X8JK53",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio fairfieldensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (50-181)"
+    },
+    {
+        "Id": "A0A109W3Y5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio fairfieldensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (47-178)"
+    },
+    {
+        "Id": "A0A127I4X5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas azotoformans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (12-167)"
+    },
+    {
+        "Id": "A0A132EDK8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Burkholderia pseudomultivorans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (789-912)"
+    },
+    {
+        "Id": "A0A151QD67",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Limnobacter sp. CACIAM 66H1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-158)"
+    },
+    {
+        "Id": "A0A166XHH4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas luteoviolacea DSM 6061",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (92-166)"
+    },
+    {
+        "Id": "A0A172WP57",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stutzerimonas stutzeri",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (606-664)"
+    },
+    {
+        "Id": "A0A178G8N3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. SFB",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (18-115)"
+    },
+    {
+        "Id": "A0A179B6Q2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus ferrooxidans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (206-338)"
+    },
+    {
+        "Id": "A0A1B7L380",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Mangrovibacter phragmitis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (46-162)"
+    },
+    {
+        "Id": "A0A1B9P0T6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aliivibrio logei",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (571-720)"
+    },
+    {
+        "Id": "A0A1C2I565",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus thiooxidans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (189-323)"
+    },
+    {
+        "Id": "A0A1C6Z7B2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Hafnia alvei",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (98-144)"
+    },
+    {
+        "Id": "A0A1C7B767",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa BL04",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (168-299)"
+    },
+    {
+        "Id": "A0A1C7BR13",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa BL04",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-294)"
+    },
+    {
+        "Id": "A0A1C7BVZ6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa BL04",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-294)"
+    },
+    {
+        "Id": "A0A1E4K0B8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonadaceae bacterium SCN 69-320",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (236-358)"
+    },
+    {
+        "Id": "A0A1E4VGC6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas sp. DNP9",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (643-771)"
+    },
+    {
+        "Id": "A0A1E5CRS4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio genomosp. F6 str. FF-238",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (15-163)"
+    },
+    {
+        "Id": "A0A1E7YK54",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus caldus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (214-336)"
+    },
+    {
+        "Id": "A0A1E7YTW8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus caldus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (38-190)"
+    },
+    {
+        "Id": "A0A1F3YED7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Betaproteobacteria bacterium RBG_16_64_18",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-139)"
+    },
+    {
+        "Id": "A0A1G6J5C6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax valerianellae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A1G9APG1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas indica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (79-194)"
+    },
+    {
+        "Id": "A0A1H0U1V9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax cattleyae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (143-287)"
+    },
+    {
+        "Id": "A0A1H0W4C3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax cattleyae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A1H4WQ66",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas saponiphila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A1H5GKR8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas anguilliseptica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A1H7MKH6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stigmatella aurantiaca",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (129-264)"
+    },
+    {
+        "Id": "A0A1H9E0J3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rosenbergiella nectarea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-108)"
+    },
+    {
+        "Id": "A0A1H9GZJ1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rosenbergiella nectarea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-154)"
+    },
+    {
+        "Id": "A0A1H9MM06",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Solimonas aquatica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (270-400)"
+    },
+    {
+        "Id": "A0A1H9MPB5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rosenbergiella nectarea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (39-156)"
+    },
+    {
+        "Id": "A0A1I0GP82",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stigmatella erecta",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (144-263)"
+    },
+    {
+        "Id": "A0A1I1X1L0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax konjaci",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-155)"
+    },
+    {
+        "Id": "A0A1I3LN83",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xenorhabdus mauleonii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (297-428)"
+    },
+    {
+        "Id": "A0A1I3ZEQ6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfomicrobium apsheronum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (48-207)"
+    },
+    {
+        "Id": "A0A1I6MET3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dyella sp. OK004",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (9726-9874)"
+    },
+    {
+        "Id": "A0A1J6XB34",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. AR2-3",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (15-115)"
+    },
+    {
+        "Id": "A0A1K2HS13",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Chitinimonas taiwanensis DSM 18899",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (719-814)"
+    },
+    {
+        "Id": "A0A1L5C2A4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas phage C5a",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-151)"
+    },
+    {
+        "Id": "A0A1M4ITC8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas translucens pv. graminis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-219)"
+    },
+    {
+        "Id": "A0A1M6AZF9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio aerogenes CECT 7868",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-150)"
+    },
+    {
+        "Id": "A0A1M7Z2M6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio quintilis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-150)"
+    },
+    {
+        "Id": "A0A1N6LZC1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio spartinae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (222-372)"
+    },
+    {
+        "Id": "A0A1N6SKY1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas alcaligenes",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A1N7TZE0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas simiae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A1Q3H5H4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Archangium sp. Cb G35",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (111-270)"
+    },
+    {
+        "Id": "A0A1Q3HA41",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Archangium sp. Cb G35",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (138-241)"
+    },
+    {
+        "Id": "A0A1Q3W420",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Afipia sp. 64-13",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (49-163)"
+    },
+    {
+        "Id": "A0A1Q4FV22",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonadales bacterium 69-70",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (236-358)"
+    },
+    {
+        "Id": "A0A1R2AN19",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stentor coeruleus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-211)"
+    },
+    {
+        "Id": "A0A1R2BW85",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stentor coeruleus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-207)"
+    },
+    {
+        "Id": "A0A1S1NP00",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Kushneria phosphatilytica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-157)"
+    },
+    {
+        "Id": "A0A1S2CY89",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas sobria",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (672-799)"
+    },
+    {
+        "Id": "A0A1S6HMB2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella psychrophila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-153)"
+    },
+    {
+        "Id": "A0A1S8GSD7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Bombella intestini",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (55-212)"
+    },
+    {
+        "Id": "A0A1T5BJK4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dyadobacter psychrophilus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-165)"
+    },
+    {
+        "Id": "A0A1U9UQB7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Cupriavidus necator",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (721-816)"
+    },
+    {
+        "Id": "A0A1V8NRN2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Citrobacter braakii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (165-320)"
+    },
+    {
+        "Id": "A0A1W6EUI3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio fluvialis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (835-983)"
+    },
+    {
+        "Id": "A0A1X1ESI3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pantoea cypripedii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-124)"
+    },
+    {
+        "Id": "A0A1Z5SKH3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Chitinophagaceae bacterium IBVUCB1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (234-361)"
+    },
+    {
+        "Id": "A0A1Z9Y1V6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Candidatus Endolissoclinum sp. TMED26",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-98)"
+    },
+    {
+        "Id": "A0A1Z9Y1X7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Candidatus Endolissoclinum sp. TMED26",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-60)"
+    },
+    {
+        "Id": "A0A233HN10",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio sp. V15_P4S5T153",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (832-980)"
+    },
+    {
+        "Id": "A0A235EHB3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax kalamii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-156)"
+    },
+    {
+        "Id": "A0A250IKF4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Melittangium boletus DSM 14713",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (151-265)"
+    },
+    {
+        "Id": "A0A250K1E6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Corallococcus macrosporus DSM 14697",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (90-249)"
+    },
+    {
+        "Id": "A0A252C4K7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acetobacter sp. DsW_063",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (163-307)"
+    },
+    {
+        "Id": "A0A255XKD6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Elstera cyanobacteriorum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (186-284)"
+    },
+    {
+        "Id": "A0A266N6K7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas lundensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A271VY63",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio metoecus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (844-991)"
+    },
+    {
+        "Id": "A0A291PN28",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acetobacter tropicalis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (212-362)"
+    },
+    {
+        "Id": "A0A2A2PLY1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas moraviensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (704-818)"
+    },
+    {
+        "Id": "A0A2A4QFH0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Gammaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "A0A2A5A7S6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Gammaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-146)"
+    },
+    {
+        "Id": "A0A2A5HP95",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alteromonadaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (42-158)"
+    },
+    {
+        "Id": "A0A2B4S2A4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stylophora pistillata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (73-226)"
+    },
+    {
+        "Id": "A0A2C9EG48",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas protegens (strain DSM 19095 / LMG 27888 / CFBP 6595 / CHA0)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A2C9ZZT0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas ulvae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (126-205)"
+    },
+    {
+        "Id": "A0A2D2DDR4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Massilia violaceinigra",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (181-305)"
+    },
+    {
+        "Id": "A0A2D6RXH3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Sutterellaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-158)"
+    },
+    {
+        "Id": "A0A2D6X950",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Candidatus Pacearchaeota archaeon",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6211-6340)"
+    },
+    {
+        "Id": "A0A2D7JMS7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Nisaea sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-60)"
+    },
+    {
+        "Id": "A0A2D7JMT1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Nisaea sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-98)"
+    },
+    {
+        "Id": "A0A2D8QZA8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidobacteriota bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (42-192)"
+    },
+    {
+        "Id": "A0A2D9RIE7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Ponticaulis sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-154)"
+    },
+    {
+        "Id": "A0A2E0FJU9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Crocinitomicaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-148)"
+    },
+    {
+        "Id": "A0A2E4T229",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Flavobacteriales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (13-160)"
+    },
+    {
+        "Id": "A0A2E7ZVR6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (102-179)"
+    },
+    {
+        "Id": "A0A2E9AM23",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salinisphaera sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A2G2R589",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rhodospirillaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (245-403)"
+    },
+    {
+        "Id": "A0A2G8D8T6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia sp. OLMDLW33",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-154)"
+    },
+    {
+        "Id": "A0A2H5BFZ4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage Athena1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "A0A2H9T0A7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Legionella sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3445-3598)"
+    },
+    {
+        "Id": "A0A2H9U7U5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas cavernicola",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (294-444)"
+    },
+    {
+        "Id": "A0A2I3CPV6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio alginolyticus (strain ATCC 17749 / DSM 2171 / NBRC 15630 / NCIMB 1903 / NCTC 12160 / XII-53)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (490-638)"
+    },
+    {
+        "Id": "A0A2I7RBM4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage 1.154.O._10N.222.52.B12",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "A0A2K8QMT4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dickeya fangzhongdai",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (91-228)"
+    },
+    {
+        "Id": "A0A2K8VUW1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dickeya solani RNS 08.23.3.1.A",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (343-497)"
+    },
+    {
+        "Id": "A0A2L2J724",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter indicus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (13-115)"
+    },
+    {
+        "Id": "A0A2M8H471",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas lusitana",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (78-209)"
+    },
+    {
+        "Id": "A0A2N3RDI6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas prunicola",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (79-233)"
+    },
+    {
+        "Id": "A0A2N8BD09",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. FW305-25",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (267-420)"
+    },
+    {
+        "Id": "A0A2R3F043",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella sp. WE21",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-149)"
+    },
+    {
+        "Id": "A0A2R3ISV0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-294)"
+    },
+    {
+        "Id": "A0A2R4DK80",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax avenae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (143-288)"
+    },
+    {
+        "Id": "A0A2R4EBE1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax avenae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (161-286)"
+    },
+    {
+        "Id": "A0A2R4EVB4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax avenae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A2R4F4U1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax avenae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A2R7MPS4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp. HMWF029",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-156)"
+    },
+    {
+        "Id": "A0A2R7NGB8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas sp. HMWF017",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (77-206)"
+    },
+    {
+        "Id": "A0A2R7P8D2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp. HMWF018",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-155)"
+    },
+    {
+        "Id": "A0A2R7PW82",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas sp. HMWF015",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-118)"
+    },
+    {
+        "Id": "A0A2S7TNE3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Limnobacter sp. SAORIC-690",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-158)"
+    },
+    {
+        "Id": "A0A2S7XIH9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aliivibrio sifiae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (571-720)"
+    },
+    {
+        "Id": "A0A2S9E8L3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas poae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A2T3IHN6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Photobacterium lutimaris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (32-149)"
+    },
+    {
+        "Id": "A0A2T3JH60",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Photobacterium frigidiphilum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (105-179)"
+    },
+    {
+        "Id": "A0A2T6GLU8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas protegens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A2U1DR96",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp. 99",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-155)"
+    },
+    {
+        "Id": "A0A2U3MWK3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter stercoris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (152-283)"
+    },
+    {
+        "Id": "A0A2W0FS04",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. TKO29",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A2W4WVW6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Betaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-158)"
+    },
+    {
+        "Id": "A0A2W4X323",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Betaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (54-206)"
+    },
+    {
+        "Id": "A0A2Z3H7J1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Gemmata obscuriglobus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (55-171)"
+    },
+    {
+        "Id": "A0A2Z4PS64",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marinomonas primoryensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (14-163)"
+    },
+    {
+        "Id": "A0A2Z4PXK7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marinomonas primoryensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (53-192)"
+    },
+    {
+        "Id": "A0A2Z6US63",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Glaciecola sp. (strain KUL10)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-160)"
+    },
+    {
+        "Id": "A0A317Q389",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Mangrovibacter plantisponsor",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (114-230)"
+    },
+    {
+        "Id": "A0A317ZR62",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio sp. 11986-1-5",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (844-991)"
+    },
+    {
+        "Id": "A0A344TEH3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Runella rosea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (9-165)"
+    },
+    {
+        "Id": "A0A344TT16",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Runella rosea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-163)"
+    },
+    {
+        "Id": "A0A345CWL8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia tracheiphila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (29-160)"
+    },
+    {
+        "Id": "A0A345CXQ4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia tracheiphila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (40-179)"
+    },
+    {
+        "Id": "A0A346N4H9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Solimonas sp. K1W22B-7",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (280-434)"
+    },
+    {
+        "Id": "A0A350PFZ4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Balneola sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-149)"
+    },
+    {
+        "Id": "A0A354GWL2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Planctomycetales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (304-472)"
+    },
+    {
+        "Id": "A0A354V5R9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acetobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (315-477)"
+    },
+    {
+        "Id": "A0A355VUH4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Holosporales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A359LU18",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Bryobacterales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (239-389)"
+    },
+    {
+        "Id": "A0A369IBY8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Runella aurantiaca",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (9-165)"
+    },
+    {
+        "Id": "A0A370QGD1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Enterobacillus tribolii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (42-158)"
+    },
+    {
+        "Id": "A0A370QRV2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Enterobacillus tribolii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (38-165)"
+    },
+    {
+        "Id": "A0A378WGL1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Neisseria zoodegmatis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (280-386)"
+    },
+    {
+        "Id": "A0A379HBE8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas nigrifaciens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-152)"
+    },
+    {
+        "Id": "A0A379QFF5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (580-684)"
+    },
+    {
+        "Id": "A0A379S026",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. arizonae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (356-432)"
+    },
+    {
+        "Id": "A0A379SG48",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (367-471)"
+    },
+    {
+        "Id": "A0A385XYE5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dickeya dianthicola",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (493-646)"
+    },
+    {
+        "Id": "A0A388SM55",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Cupidesulfovibrio sp. HK-II",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (117-276)"
+    },
+    {
+        "Id": "A0A3A0F237",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonadota bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (19-170)"
+    },
+    {
+        "Id": "A0A3A5J4S6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salinisphaera sp. Q1T1-3",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0A3D1MKZ7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (450-587)"
+    },
+    {
+        "Id": "A0A3D1U6M8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (250-411)"
+    },
+    {
+        "Id": "A0A3D5BJP1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rheinheimera sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-152)"
+    },
+    {
+        "Id": "A0A3G6ZTR2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. CMR5c",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A3M2H916",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. AOB-7",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (613-675)"
+    },
+    {
+        "Id": "A0A3M7PBA5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus plicatilis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (46-119)"
+    },
+    {
+        "Id": "A0A3M7PC22",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus plicatilis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (29-75)"
+    },
+    {
+        "Id": "A0A3M7QMK7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus plicatilis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (191-285)"
+    },
+    {
+        "Id": "A0A3M7RMM0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus plicatilis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (29-75)"
+    },
+    {
+        "Id": "A0A3M7SZ98",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus plicatilis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (25-171)"
+    },
+    {
+        "Id": "A0A3M8QNL9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus sulfuriphilus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (193-325)"
+    },
+    {
+        "Id": "A0A3M8QQU6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus sulfuriphilus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (194-321)"
+    },
+    {
+        "Id": "A0A3N4P755",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pantoea sp. RIT388",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (565-693)"
+    },
+    {
+        "Id": "A0A3N6SGA5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia psidii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (26-169)"
+    },
+    {
+        "Id": "A0A3N7EIF9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. KBW05",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A3P3QNH9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rheinheimera mesophila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-149)"
+    },
+    {
+        "Id": "A0A3Q8X380",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas sp. Xi13",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-157)"
+    },
+    {
+        "Id": "A0A3R9FM10",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia sp. 198",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (25-140)"
+    },
+    {
+        "Id": "A0A3R9IQ09",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. FDAARGOS_515",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (350-455)"
+    },
+    {
+        "Id": "A0A3S0FHT4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Bradyrhizobiaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (12-154)"
+    },
+    {
+        "Id": "A0A3S0MW31",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. C 49-2",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A3S4XVE0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rodentibacter pneumotropicus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-49)"
+    },
+    {
+        "Id": "A0A3S9UUS1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paenibacillus lutimineralis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (403-523)"
+    },
+    {
+        "Id": "A0A3Y9C2W9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Java",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (112-266)"
+    },
+    {
+        "Id": "A0A402D591",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Capsulimonas corticalis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (158-308)"
+    },
+    {
+        "Id": "A0A420WVW5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Kushneria sinocarnis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-156)"
+    },
+    {
+        "Id": "A0A423D0G7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas protegens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A423FEL4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas canadensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A423JCS6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas brassicacearum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (706-820)"
+    },
+    {
+        "Id": "A0A423JKH5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas frederiksbergensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (267-419)"
+    },
+    {
+        "Id": "A0A426IMT1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium aquaticum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (42-158)"
+    },
+    {
+        "Id": "A0A427K5G5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia sp. 198",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-164)"
+    },
+    {
+        "Id": "A0A427K8P7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Erwinia sp. 198",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-127)"
+    },
+    {
+        "Id": "A0A430HNS5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Massilia atriviolacea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (186-319)"
+    },
+    {
+        "Id": "A0A431XA18",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-294)"
+    },
+    {
+        "Id": "A0A432D2E6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio aquaticus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (818-966)"
+    },
+    {
+        "Id": "A0A447QT60",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Serratia rubidaea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-156)"
+    },
+    {
+        "Id": "A0A448SUP0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Serratia rubidaea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (11-157)"
+    },
+    {
+        "Id": "A0A494XRN2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Trinickia fusca",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (9639-9800)"
+    },
+    {
+        "Id": "A0A4P8SIP6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Nissabacter sp. SGAir0207",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (579-683)"
+    },
+    {
+        "Id": "A0A4Q0XU88",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Halarcobacter anaerophilus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (228-360)"
+    },
+    {
+        "Id": "A0A4Q7HWR8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio vulnificus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (124-239)"
+    },
+    {
+        "Id": "A0A4R0F3U5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. ANC 4216",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (17-115)"
+    },
+    {
+        "Id": "A0A4R5GZ58",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alteromonadaceae bacterium M269",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-150)"
+    },
+    {
+        "Id": "A0A4R6MDH1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marinomonas balearica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (893-1035)"
+    },
+    {
+        "Id": "A0A4R6Z6T5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Tahibacter aquaticus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (226-347)"
+    },
+    {
+        "Id": "A0A4U1IQV9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Polyangium fumosum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (30-163)"
+    },
+    {
+        "Id": "A0A4U7KBP9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium polonicum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (42-158)"
+    },
+    {
+        "Id": "A0A4V4R806",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas leptonychotis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A4V8DRY6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (168-299)"
+    },
+    {
+        "Id": "A0A4Y1NSY6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pelagibacter phage HTVC120P",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-147)"
+    },
+    {
+        "Id": "A0A4Y1NU07",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pelagibacter phage HTVC031P",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-150)"
+    },
+    {
+        "Id": "A0A4Y6CZ41",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus xanthus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (89-248)"
+    },
+    {
+        "Id": "A0A4Z0AQM0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas kairouanensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A502G0P6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Ewingella americana",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (197-328)"
+    },
+    {
+        "Id": "A0A508AAV3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter aestuarii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (92-261)"
+    },
+    {
+        "Id": "A0A511BNU4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Swaminathania salitolerans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (1067-1181)"
+    },
+    {
+        "Id": "A0A511HM25",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus virescens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (71-230)"
+    },
+    {
+        "Id": "A0A511X952",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acetobacter nitrogenifigens DSM 23921 = NBRC 105050",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (163-313)"
+    },
+    {
+        "Id": "A0A514BW21",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter alkalisoli",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (106-275)"
+    },
+    {
+        "Id": "A0A516LCK0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Prokaryotic dsDNA virus sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-158)"
+    },
+    {
+        "Id": "A0A516LGL4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Prokaryotic dsDNA virus sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-148)"
+    },
+    {
+        "Id": "A0A520FUI5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Sphingomonas sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (518-643)"
+    },
+    {
+        "Id": "A0A521GMW0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alphaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (286-374)"
+    },
+    {
+        "Id": "A0A521H295",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alphaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (558-673)"
+    },
+    {
+        "Id": "A0A536ZQ51",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Betaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (35-144)"
+    },
+    {
+        "Id": "A0A541BJX9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas luteoviolacea",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (92-166)"
+    },
+    {
+        "Id": "A0A543PZ63",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus thiooxidans ATCC 19377",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (189-324)"
+    },
+    {
+        "Id": "A0A553GTE0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas mangiferae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (244-365)"
+    },
+    {
+        "Id": "A0A553LAQ6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aliiglaciecola sp. M165",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (114-257)"
+    },
+    {
+        "Id": "A0A553P8K8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Tigriopus californicus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (164-258)"
+    },
+    {
+        "Id": "A0A560H482",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Nitrospirillum amazonense",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (154-299)"
+    },
+    {
+        "Id": "A0A5A7MTS7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Iodidimonas gelatinilytica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (65-222)"
+    },
+    {
+        "Id": "A0A5A7NMD8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Kordiimonadales bacterium JCM 17843",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-127)"
+    },
+    {
+        "Id": "A0A5B0FFT6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dyadobacter sp. UC 10",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-165)"
+    },
+    {
+        "Id": "A0A5B8IAD2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dickeya poaceiphila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (530-646)"
+    },
+    {
+        "Id": "A0A5C7P1Y3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Burkholderiaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (132-326)"
+    },
+    {
+        "Id": "A0A5E7G4Z9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas fluorescens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (710-772)"
+    },
+    {
+        "Id": "A0A5M7BYY3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas chlororaphis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (700-815)"
+    },
+    {
+        "Id": "A0A5M7CZM8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas chlororaphis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (267-420)"
+    },
+    {
+        "Id": "A0A5M8ELM1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas veronii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (48-172)"
+    },
+    {
+        "Id": "A0A5P1DRR7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. JG-B",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (183-244)"
+    },
+    {
+        "Id": "A0A5P9CKF9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio aquimaris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (158-274)"
+    },
+    {
+        "Id": "A0A5P9CL72",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio aquimaris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (208-352)"
+    },
+    {
+        "Id": "A0A5S3YTF0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas phenolica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (49-127)"
+    },
+    {
+        "Id": "A0A5U8JI09",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Panama",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (14-89)"
+    },
+    {
+        "Id": "A0A5U9VSR0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella newport",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (115-270)"
+    },
+    {
+        "Id": "A0A5V1MQM8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (165-320)"
+    },
+    {
+        "Id": "A0A5W0NWP3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. arizonae serovar 18:z4,z23:-",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-160)"
+    },
+    {
+        "Id": "A0A5X0ZGG2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Java",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (112-263)"
+    },
+    {
+        "Id": "A0A5X8Y3F7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella newport",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (14-89)"
+    },
+    {
+        "Id": "A0A5Y0S5R2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella newport",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (17-92)"
+    },
+    {
+        "Id": "A0A5Y2S787",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. salamae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (530-634)"
+    },
+    {
+        "Id": "A0A602Z8K6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Pensacola",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (131-284)"
+    },
+    {
+        "Id": "A0A602Z8M9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Pensacola",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-105)"
+    },
+    {
+        "Id": "A0A634F6C4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-160)"
+    },
+    {
+        "Id": "A0A643IWC0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-294)"
+    },
+    {
+        "Id": "A0A646P0T3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas haemolytica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (71-221)"
+    },
+    {
+        "Id": "A0A646QWR3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Roseobacter phage CRP-7",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (11-70)"
+    },
+    {
+        "Id": "A0A653IF95",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Limnobacter sp. 130",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-158)"
+    },
+    {
+        "Id": "A0A653SE92",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. 8BK",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A658ZZU9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Klebsiella pneumoniae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (143-296)"
+    },
+    {
+        "Id": "A0A699WQF6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Tanacetum cinerariifolium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (8-89)"
+    },
+    {
+        "Id": "A0A6A9K2P9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (179-303)"
+    },
+    {
+        "Id": "A0A6B9FXE6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pantoea cypripedii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-128)"
+    },
+    {
+        "Id": "A0A6B9JAR1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage vB_VchM_Kuja",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-150)"
+    },
+    {
+        "Id": "A0A6C1SQK6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rhodospirillales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-157)"
+    },
+    {
+        "Id": "A0A6C7C594",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. salamae serovar 55:k:z39 str. 1315K",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (580-684)"
+    },
+    {
+        "Id": "A0A6H9TK68",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Burkholderia latens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (790-885)"
+    },
+    {
+        "Id": "A0A6I1N9T3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. MWU12-2323",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (48-163)"
+    },
+    {
+        "Id": "A0A6I3PXI0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Streptococcus parasanguinis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-234)"
+    },
+    {
+        "Id": "A0A6I3WCE1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas spelaei",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-144)"
+    },
+    {
+        "Id": "A0A6I3WMH8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas spelaei",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-143)"
+    },
+    {
+        "Id": "A0A6J4QBK3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "uncultured Rubrobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (265-415)"
+    },
+    {
+        "Id": "A0A6J5F053",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Burkholderia paludis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (791-924)"
+    },
+    {
+        "Id": "A0A6J5J4C6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Burkholderia aenigmatica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (203-332)"
+    },
+    {
+        "Id": "A0A6J5M300",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "uncultured Caudovirales phage",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-152)"
+    },
+    {
+        "Id": "A0A6L8LV90",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio tetraodonis subsp. pristinus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (124-272)"
+    },
+    {
+        "Id": "A0A6M8BM55",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas axonopodis pv. vasculorum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (78-232)"
+    },
+    {
+        "Id": "A0A6N2DTU7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rhodospirillales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-157)"
+    },
+    {
+        "Id": "A0A6N7PWC0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Polyangium spumosum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (32-163)"
+    },
+    {
+        "Id": "A0A6P1RKT8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium odoriferum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (42-158)"
+    },
+    {
+        "Id": "A0A6P1S449",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium polaris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (1-117)"
+    },
+    {
+        "Id": "A0A6P1S5G2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium polaris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (109-146)"
+    },
+    {
+        "Id": "A0A6P8HLB7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Actinia tenebrosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (8-113)"
+    },
+    {
+        "Id": "A0A6S4P7R7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "uncultured phage_MedDCM-OCT-S42-C7",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-148)"
+    },
+    {
+        "Id": "A0A6S4P9Y9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "uncultured phage_MedDCM-OCT-S46-C10",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-147)"
+    },
+    {
+        "Id": "A0A6S7HYV6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-223)"
+    },
+    {
+        "Id": "A0A6S7IA18",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (86-201)"
+    },
+    {
+        "Id": "A0A6S7IG66",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-223)"
+    },
+    {
+        "Id": "A0A6S7IUQ1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-221)"
+    },
+    {
+        "Id": "A0A6S7JGY7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-130)"
+    },
+    {
+        "Id": "A0A6S7K286",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-221)"
+    },
+    {
+        "Id": "A0A6S7K507",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (57-187)"
+    },
+    {
+        "Id": "A0A6S7KIL1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-221)"
+    },
+    {
+        "Id": "A0A6S7L7K3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-203)"
+    },
+    {
+        "Id": "A0A6W0P384",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Rubislaw str. ATCC 10717",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (112-260)"
+    },
+    {
+        "Id": "A0A736VMJ7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. houtenae serovar 45:g,z51:-",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (112-260)"
+    },
+    {
+        "Id": "A0A738XGM4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. arizonae serovar 48:z4,z24:-",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-160)"
+    },
+    {
+        "Id": "A0A743P527",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (113-261)"
+    },
+    {
+        "Id": "A0A743Z2X0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (17-92)"
+    },
+    {
+        "Id": "A0A759MBN8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (165-320)"
+    },
+    {
+        "Id": "A0A765FZB6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-80)"
+    },
+    {
+        "Id": "A0A7C8M075",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Halodesulfovibrio sp. MK-HDV",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A7C9FZC0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Cytophagaceae bacterium SJW1-29",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (8-165)"
+    },
+    {
+        "Id": "A0A7D5T027",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas veronii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (678-805)"
+    },
+    {
+        "Id": "A0A7D7JI10",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage XM1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "A0A7D7X0E1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio spartinae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (134-277)"
+    },
+    {
+        "Id": "A0A7D9EJ48",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-198)"
+    },
+    {
+        "Id": "A0A7D9EKL2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-222)"
+    },
+    {
+        "Id": "A0A7D9ETB1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-222)"
+    },
+    {
+        "Id": "A0A7D9HZY7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (72-224)"
+    },
+    {
+        "Id": "A0A7D9IGN2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (68-221)"
+    },
+    {
+        "Id": "A0A7D9IKX9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-171)"
+    },
+    {
+        "Id": "A0A7D9ILN6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (72-193)"
+    },
+    {
+        "Id": "A0A7D9IXX3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-222)"
+    },
+    {
+        "Id": "A0A7D9JIR6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-222)"
+    },
+    {
+        "Id": "A0A7D9K2K6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-221)"
+    },
+    {
+        "Id": "A0A7D9LLM4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-221)"
+    },
+    {
+        "Id": "A0A7D9LU66",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paramuricea clavata",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (70-221)"
+    },
+    {
+        "Id": "A0A7G8YDY8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas protegens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A7H1NS83",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Entomobacter blattae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (45-164)"
+    },
+    {
+        "Id": "A0A7H1NUI7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Entomobacter blattae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (311-461)"
+    },
+    {
+        "Id": "A0A7H2WGH1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter seifertii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (350-435)"
+    },
+    {
+        "Id": "A0A7J5GQ69",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Bacteroides uniformis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-247)"
+    },
+    {
+        "Id": "A0A7J5NSM8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Bacteroides xylanisolvens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0A7J5P8Z3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Bacteroides xylanisolvens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-158)"
+    },
+    {
+        "Id": "A0A7L5RT20",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. ABC1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A7L9REB1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dickeya dianthicola",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (310-464)"
+    },
+    {
+        "Id": "A0A7R7BHQ6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Mesorhizobium sp. 131-2-5",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (119-227)"
+    },
+    {
+        "Id": "A0A7R8D1B9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lepeophtheirus salmonis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (294-386)"
+    },
+    {
+        "Id": "A0A7S5Y957",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pelagibacter phage Bylgja EXVC010P",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-147)"
+    },
+    {
+        "Id": "A0A7S5YA58",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pelagibacter phage Himinglaeva EXVC011P",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-147)"
+    },
+    {
+        "Id": "A0A7S5YAF0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pelagibacter phage Hroenn EXVC015P",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-147)"
+    },
+    {
+        "Id": "A0A7S5YDX8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pelagibacter phage Unn EXVC019P",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-147)"
+    },
+    {
+        "Id": "A0A7S6ZWT7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter sp. H23M47",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (881-1005)"
+    },
+    {
+        "Id": "A0A7S6ZXR9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter sp. H23M47",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (736-857)"
+    },
+    {
+        "Id": "A0A7T8FL39",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica I",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-160)"
+    },
+    {
+        "Id": "A0A7T8INU5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella algae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-153)"
+    },
+    {
+        "Id": "A0A7U4E8Q5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Runella slithyformis (strain ATCC 29530 / DSM 19594 / LMG 11500 / NCIMB 11436 / LSU 4)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-164)"
+    },
+    {
+        "Id": "A0A7V8J9Y9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. LD120",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A7V8QDK6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium brasiliense",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (110-263)"
+    },
+    {
+        "Id": "A0A7V8UFR4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas brassicacearum subsp. neoaurantiaca",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (53-181)"
+    },
+    {
+        "Id": "A0A7W3DIP5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Enterobacter asburiae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (38-154)"
+    },
+    {
+        "Id": "A0A7W3TKK5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter spongiae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (92-261)"
+    },
+    {
+        "Id": "A0A7W3U4E3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Lysobacter penaei",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-206)"
+    },
+    {
+        "Id": "A0A7W3ZWL2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella sp. SR44-3",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-154)"
+    },
+    {
+        "Id": "A0A7W4FT00",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella sp. SR44-4",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-153)"
+    },
+    {
+        "Id": "A0A7W4IH17",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Gluconacetobacter sacchari",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (159-311)"
+    },
+    {
+        "Id": "A0A7W6PK76",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas campestris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (79-233)"
+    },
+    {
+        "Id": "A0A7X2IUP7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoduganella rivuli",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (121-275)"
+    },
+    {
+        "Id": "A0A7Y1ATW0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. WS 5078",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A7Y1CDZ5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. WS 5414",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A7Y1MFJ8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas lactis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (71-221)"
+    },
+    {
+        "Id": "A0A7Y2RY66",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter terrae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (17-115)"
+    },
+    {
+        "Id": "A0A7Y3Q7R1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio sp. 1-2 (7-a)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (492-640)"
+    },
+    {
+        "Id": "A0A7Y4MT45",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus xanthus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (89-248)"
+    },
+    {
+        "Id": "A0A7Y5GTI6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (53-135)"
+    },
+    {
+        "Id": "A0A7Y6WZ79",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus sp. AM010",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (89-248)"
+    },
+    {
+        "Id": "A0A7Y7WPZ7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas gingeri",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (542-600)"
+    },
+    {
+        "Id": "A0A7Y7ZVE2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. IPO3779",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (698-814)"
+    },
+    {
+        "Id": "A0A7Y8AD21",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. IPO3778",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (698-814)"
+    },
+    {
+        "Id": "A0A7Y8BMY7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas gingeri",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (43-158)"
+    },
+    {
+        "Id": "A0A7Y8EFT2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas yamanorum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (235-351)"
+    },
+    {
+        "Id": "A0A7Y8FA63",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas yamanorum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (81-197)"
+    },
+    {
+        "Id": "A0A7Z0PDY3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. SbOxS1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (13-109)"
+    },
+    {
+        "Id": "A0A7Z1PXG0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica I",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (11-84)"
+    },
+    {
+        "Id": "A0A7Z1PXK0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica I",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-31)"
+    },
+    {
+        "Id": "A0A7Z2B013",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pantoea vagans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (130-246)"
+    },
+    {
+        "Id": "A0A7Z2RFL2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. S49",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (704-818)"
+    },
+    {
+        "Id": "A0A7Z8Z8T4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Raoultella terrigena",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (195-323)"
+    },
+    {
+        "Id": "A0A807ZPV6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. G11",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (11-176)"
+    },
+    {
+        "Id": "A0A813P9F4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus calyciflorus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (26-119)"
+    },
+    {
+        "Id": "A0A813PE12",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus calyciflorus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (14-98)"
+    },
+    {
+        "Id": "A0A814BN05",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus calyciflorus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (26-118)"
+    },
+    {
+        "Id": "A0A814GRB0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Brachionus calyciflorus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (1-118)"
+    },
+    {
+        "Id": "A0A827AL07",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Escherichia coli",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (115-230)"
+    },
+    {
+        "Id": "A0A827ZIG8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Escherichia coli",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-167)"
+    },
+    {
+        "Id": "A0A844DQT8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Faecalibacterium prausnitzii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0A845U3Q1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus ferrianus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (189-318)"
+    },
+    {
+        "Id": "A0A850GGF4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudenhygromyxa sp. WMMC2535",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (155-303)"
+    },
+    {
+        "Id": "A0A857EHR0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Serratia rhizosphaerae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-150)"
+    },
+    {
+        "Id": "A0A8D5Y925",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (169-293)"
+    },
+    {
+        "Id": "A0A8E2AIT2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aliivibrio fischeri",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (578-727)"
+    },
+    {
+        "Id": "A0A8E2VV90",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax citrulli",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (163-257)"
+    },
+    {
+        "Id": "A0A8F3BF73",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage vB_VpP_BT-1011",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "A0A8F7R914",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. arizonae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-160)"
+    },
+    {
+        "Id": "A0A8G2BJI5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Thalassobaculum litoreum DSM 18839",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-160)"
+    },
+    {
+        "Id": "A0A8G2MXW2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter terrestris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (16-115)"
+    },
+    {
+        "Id": "A0A8I0RN88",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio anguillarum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (837-924)"
+    },
+    {
+        "Id": "A0A8J7D041",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desmonostoc muscorum LEGE 12446",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2224-2356)"
+    },
+    {
+        "Id": "A0A8J7SKL0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marivibrio halodurans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (38-195)"
+    },
+    {
+        "Id": "A0A8S0GW62",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. Boi14",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A8S5LVM6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Podoviridae sp. ctc5632",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (125-266)"
+    },
+    {
+        "Id": "A0A8S5PY56",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Podoviridae sp. ctFbF42",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (35-178)"
+    },
+    {
+        "Id": "A0A8S5TPE2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Podoviridae sp. ct2iq11",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (75-182)"
+    },
+    {
+        "Id": "A0A8T0C6W0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas rubra",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (446-569)"
+    },
+    {
+        "Id": "A0A8X7CV85",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter lwoffii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (15-115)"
+    },
+    {
+        "Id": "A0A8X8DQY3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pantoea vagans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (130-246)"
+    },
+    {
+        "Id": "A0A918JQJ1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alteromonas halophila",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (121-250)"
+    },
+    {
+        "Id": "A0A922ZK53",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alcaligenaceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-158)"
+    },
+    {
+        "Id": "A0A923F2C1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas khorasanensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (705-819)"
+    },
+    {
+        "Id": "A0A925F203",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Ferruginibacter sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-103)"
+    },
+    {
+        "Id": "A0A934DGL2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Ignavibacteriota bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (25-136)"
+    },
+    {
+        "Id": "A0A940EVA6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Endozoicomonas sp. G2_1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (113-256)"
+    },
+    {
+        "Id": "A0A941PDU9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonadota bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-321)"
+    },
+    {
+        "Id": "A0A941PIF0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonadota bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (184-336)"
+    },
+    {
+        "Id": "A0A941UCR7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Citrobacter sp. JGM124",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-108)"
+    },
+    {
+        "Id": "A0A941Z7U0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Citrobacter sp. JGM124",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (37-160)"
+    },
+    {
+        "Id": "A0A949M5Y4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Planctomycetota bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (41-189)"
+    },
+    {
+        "Id": "A0A951VA77",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Sphingomonadales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (40-191)"
+    },
+    {
+        "Id": "A0A956KHT7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-151)"
+    },
+    {
+        "Id": "A0A956KPA4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (160-245)"
+    },
+    {
+        "Id": "A0A964EYG4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alphaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-263)"
+    },
+    {
+        "Id": "A0A965LB48",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Caulobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-143)"
+    },
+    {
+        "Id": "A0A965P4Y4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Caulobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (84-206)"
+    },
+    {
+        "Id": "A0A965PAV7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Caulobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-140)"
+    },
+    {
+        "Id": "A0A965PQK8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Caulobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-142)"
+    },
+    {
+        "Id": "A0A965UM65",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Caulobacteraceae bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (34-140)"
+    },
+    {
+        "Id": "A0A966PYD2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (36-90)"
+    },
+    {
+        "Id": "A0A973C3X9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Moritella sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (549-620)"
+    },
+    {
+        "Id": "A0A974QD50",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Salmonella enterica subsp. enterica serovar Rough O:d:1,7",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (14-89)"
+    },
+    {
+        "Id": "A0A975F2P3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Treponema parvum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (870-1028)"
+    },
+    {
+        "Id": "A0A976SNK3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage vB_VaM_H2",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "A0A9C9GPT1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Gammaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-95)"
+    },
+    {
+        "Id": "A0A9C9GQA5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Gammaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-71)"
+    },
+    {
+        "Id": "A0A9C9Q657",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Chromatiales bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-57)"
+    },
+    {
+        "Id": "A0A9D5IR90",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp.",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (705-819)"
+    },
+    {
+        "Id": "A0A9E6UU54",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Alphaproteobacteria bacterium",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (316-424)"
+    },
+    {
+        "Id": "A0A9E9NSF3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Oxalobacter aliiformigenes",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (230-373)"
+    },
+    {
+        "Id": "A0A9N8CTE0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Citrobacter werkmanii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (594-709)"
+    },
+    {
+        "Id": "A0A9P1R3A3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (168-299)"
+    },
+    {
+        "Id": "A0A9P2RQS9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis PY-100",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0A9Q3X9V3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas syringae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0A9Q4B8N7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. C_4_1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (17-115)"
+    },
+    {
+        "Id": "A0A9Q6N6U8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas protegens",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0A9Q7KTP1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas sp. CO109Y",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-155)"
+    },
+    {
+        "Id": "A0A9Q7QZ75",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. NFPP17",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0A9Q8LPT1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Rodentibacter pneumotropicus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (8-141)"
+    },
+    {
+        "Id": "A0A9Q9UMH2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Klebsiella pasteurii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (324-447)"
+    },
+    {
+        "Id": "A0A9W5EG12",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Janthinobacterium sp. CG23_2",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (181-306)"
+    },
+    {
+        "Id": "A0A9X1PFY9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dyadobacter chenwenxiniae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-165)"
+    },
+    {
+        "Id": "A0A9X1T8U6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dyadobacter fanqingshengii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-165)"
+    },
+    {
+        "Id": "A0A9X2AWL8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas marianensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (608-667)"
+    },
+    {
+        "Id": "A0A9X2D3V9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Legionella maioricensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-120)"
+    },
+    {
+        "Id": "A0A9X2Y8V7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis subsp. pestis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0A9X3CQ11",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio qingdaonensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (125-270)"
+    },
+    {
+        "Id": "A0A9X3TX00",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Govania unica",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (7-157)"
+    },
+    {
+        "Id": "A0A9X3UVE6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp. GBBC 3333",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (163-284)"
+    },
+    {
+        "Id": "A0A9X3ZSD9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp. NCPPB 4044",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-155)"
+    },
+    {
+        "Id": "A0A9X4BUZ5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas hortorum pv. hederae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (2-155)"
+    },
+    {
+        "Id": "A0A9Y2Y8P1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "A0AA34ULV9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pectobacterium polaris",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (110-263)"
+    },
+    {
+        "Id": "A0AA37CDY1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas alcaligenes",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "A0AA37EZ76",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Agarivorans sp. Toyoura001",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "A0AA37P3W9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidovorax sp. SUPP2539",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-156)"
+    },
+    {
+        "Id": "A0AA37W6R0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Litoribrevibacter albus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-157)"
+    },
+    {
+        "Id": "A0AA37WK83",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Agaribacter marinus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (8-156)"
+    },
+    {
+        "Id": "A0AA41BAY2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Burkholderia multivorans",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (778-901)"
+    },
+    {
+        "Id": "A0AA42CYE4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Larsenimonas rhizosphaerae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (17-171)"
+    },
+    {
+        "Id": "A0AA42KWK8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stutzerimonas stutzeri",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (603-666)"
+    },
+    {
+        "Id": "A0AA45AED0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. GW456-12-10-14-LB2",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (705-820)"
+    },
+    {
+        "Id": "A0AA46LAK8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas veronii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (676-744)"
+    },
+    {
+        "Id": "A0AA46PJN3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus xanthus",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (71-230)"
+    },
+    {
+        "Id": "A0AA46S469",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter ursingii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (350-455)"
+    },
+    {
+        "Id": "A0AA47ERS3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas hortorum",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (78-232)"
+    },
+    {
+        "Id": "A0AA48I6G3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas sp. MM1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-104)"
+    },
+    {
+        "Id": "A0AA49NVR3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. FP2196",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (704-818)"
+    },
+    {
+        "Id": "A0AA49T5I1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. FP2309",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (693-795)"
+    },
+    {
+        "Id": "A0AA49TXZ6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. FP453",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "A0AA51UNZ7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Cupidesulfovibrio liaohensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (35-199)"
+    },
+    {
+        "Id": "A0KJD2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / BCRC 13018 / CCUG 14551 / JCM 1027 / KCTC 2358 / NCIMB 9240 / NCTC 8049)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (678-805)"
+    },
+    {
+        "Id": "A1TIQ8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax citrulli (strain AAC00-1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (163-257)"
+    },
+    {
+        "Id": "A3YGM3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marinomonas sp. MED121",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (10-159)"
+    },
+    {
+        "Id": "A4CDL3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas tunicata D2",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (57-167)"
+    },
+    {
+        "Id": "A6V4M9",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa (strain PA7)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (170-294)"
+    },
+    {
+        "Id": "A7MV55",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio campbellii (strain ATCC BAA-1116)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (97-197)"
+    },
+    {
+        "Id": "A7RGW1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Nematostella vectensis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (377-510)"
+    },
+    {
+        "Id": "A9GHP0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Sorangium cellulosum (strain So ce56)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (4-57)"
+    },
+    {
+        "Id": "B6ENY4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aliivibrio salmonicida (strain LFI1238)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (563-711)"
+    },
+    {
+        "Id": "B6ET17",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Aliivibrio salmonicida (strain LFI1238)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (563-711)"
+    },
+    {
+        "Id": "B8DMQ7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio vulgaris (strain DSM 19637 / Miyazaki F)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (291-454)"
+    },
+    {
+        "Id": "C3X3M4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Oxalobacter paraformigenes",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (322-480)"
+    },
+    {
+        "Id": "C3X8S8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Oxalobacter formigenes OXCC13",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (526-669)"
+    },
+    {
+        "Id": "C6CG56",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Dickeya chrysanthemi (strain Ech1591)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (522-642)"
+    },
+    {
+        "Id": "D0KWY3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Halothiobacillus neapolitanus (strain ATCC 23641 / c2)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (95-220)"
+    },
+    {
+        "Id": "D2VKR0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Naegleria gruberi",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (252-411)"
+    },
+    {
+        "Id": "D2VKR5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Naegleria gruberi",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (230-389)"
+    },
+    {
+        "Id": "D2YAR1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio mimicus VM603",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (844-991)"
+    },
+    {
+        "Id": "D8JKX7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter oleivorans (strain JCM 16667 / KCTC 23045 / DR1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (350-435)"
+    },
+    {
+        "Id": "E3BLI8",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio caribbeanicus ATCC BAA-2122",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (325-441)"
+    },
+    {
+        "Id": "E3FP46",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stigmatella aurantiaca (strain DW4/3-1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (144-263)"
+    },
+    {
+        "Id": "E8PSB6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis Java 9",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "F0Q2W0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Paracidovorax avenae (strain ATCC 19860 / DSM 7227 / CCUG 15838 / JCM 20985 / LMG 2117 / NCPPB 1011)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (154-284)"
+    },
+    {
+        "Id": "F4T8P4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Escherichia coli M605",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (114-270)"
+    },
+    {
+        "Id": "F6CWU5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Marinomonas posidonica (strain CECT 7376 / NCIMB 14433 / IVIA-Po-181)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (56-195)"
+    },
+    {
+        "Id": "F8CF45",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus fulvus (strain ATCC BAA-855 / HW-1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (40-199)"
+    },
+    {
+        "Id": "F9ZTN4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acidithiobacillus caldus (strain SM-1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (38-190)"
+    },
+    {
+        "Id": "G1UNG2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. 6_1_46AFAA",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (9-175)"
+    },
+    {
+        "Id": "G1UQN0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. 6_1_46AFAA",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (52-180)"
+    },
+    {
+        "Id": "G1UQV7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. 6_1_46AFAA",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (40-175)"
+    },
+    {
+        "Id": "G1UVP1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. 6_1_46AFAA",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (50-180)"
+    },
+    {
+        "Id": "G1UWE2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. 6_1_46AFAA",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (53-184)"
+    },
+    {
+        "Id": "G2H9R5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio sp. A2",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (250-411)"
+    },
+    {
+        "Id": "G3CA63",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "G7TIU2",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Xanthomonas oryzae pv. oryzicola (strain BLS256)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (656-826)"
+    },
+    {
+        "Id": "G9EL04",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Legionella drancourtii LLAP12",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (250-405)"
+    },
+    {
+        "Id": "G9EQN3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Legionella drancourtii LLAP12",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (106-240)"
+    },
+    {
+        "Id": "J9IJ35",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Oxytricha trifallax",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (18-136)"
+    },
+    {
+        "Id": "K9Y9N0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Halothece sp. (strain PCC 7418)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (730-878)"
+    },
+    {
+        "Id": "L1LZP6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas bharatica CSV86",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (268-421)"
+    },
+    {
+        "Id": "M4PYB4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio phage VBM1",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-151)"
+    },
+    {
+        "Id": "N9BZ30",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter soli NIPH 2899",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (350-459)"
+    },
+    {
+        "Id": "N9DDM6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter ursingii ANC 3649",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (228-333)"
+    },
+    {
+        "Id": "N9NVE5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. CIP 102136",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (273-372)"
+    },
+    {
+        "Id": "N9PHH7",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Acinetobacter sp. CIP 64.7",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (15-115)"
+    },
+    {
+        "Id": "Q093Z1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Stigmatella aurantiaca (strain DW4/3-1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (105-224)"
+    },
+    {
+        "Id": "Q0HYS3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella sp. (strain MR-7)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (3-150)"
+    },
+    {
+        "Id": "Q12KY5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (5-154)"
+    },
+    {
+        "Id": "Q1D214",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Myxococcus xanthus (strain DK1622)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (89-248)"
+    },
+    {
+        "Id": "Q1W536",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (179-303)"
+    },
+    {
+        "Id": "Q4KIL3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-155)"
+    },
+    {
+        "Id": "Q56948",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "Q57159",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Yersinia pestis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (167-323)"
+    },
+    {
+        "Id": "Q6LR76",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Photobacterium profundum (strain SS9)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (105-179)"
+    },
+    {
+        "Id": "Q728Y6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Desulfovibrio vulgaris (strain ATCC 29579 / DSM 644 / NCIMB 8303 / VKM B-1760 / Hildenborough)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (27-132)"
+    },
+    {
+        "Id": "Q8KR51",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Escherichia fergusonii",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (107-231)"
+    },
+    {
+        "Id": "Q9I1P6",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (168-299)"
+    },
+    {
+        "Id": "S7I4D0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Vibrio fluvialis PG41",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (835-983)"
+    },
+    {
+        "Id": "U1KDQ1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas rubra DSM 6842",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (446-569)"
+    },
+    {
+        "Id": "U1TSK5",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas simiae",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-151)"
+    },
+    {
+        "Id": "U3B3E4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas alcaligenes (strain ATCC 14909 / DSM 50342 / JCM 20561 / NBRC 14159 / NCIMB 9945 / NCTC 10367 / 1577)",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "U7A3G0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas piscis",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (6-154)"
+    },
+    {
+        "Id": "V4HUP4",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudoalteromonas luteoviolacea 2ta16",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (92-167)"
+    },
+    {
+        "Id": "W0LA52",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Chania multitudinisentens RB-25",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (39-159)"
+    },
+    {
+        "Id": "W7P8M1",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Enterobacter sp. DC4",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (560-689)"
+    },
+    {
+        "Id": "W9T9G0",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Pseudomonas sp. BAY1663",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (53-168)"
+    },
+    {
+        "Id": "X6NMN3",
+        "name": "Bacterial toxin homologue of phage lysozyme, C-term",
+        "organism": "Reticulomyxa filosa",
+        "domain": "Bacterial toxin homologue of phage lysozyme, C-term-PF16754 (316-391)"
+    }
+]

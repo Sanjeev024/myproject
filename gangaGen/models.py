@@ -11,3 +11,15 @@ class CustomUser(AbstractUser):
 
     def __str__(self):
         return self.username
+
+
+class Protein(models.Model):
+    id = models.CharField(max_length=255, primary_key=True)  # Assuming Id is a string
+    name = models.CharField(max_length=255)
+    organism = models.CharField(max_length=255)
+    domain = models.CharField(max_length=255)
+
+    def __str__(self):
+        return self.name  # Display name in admin panel or wherever object is displayed
+    
+    

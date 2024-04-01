@@ -52,7 +52,7 @@
 
         <!-- Modal Body -->
         <div class="modal-body">
-         <form action="/database" method="post" name="form_name" id="form_id" class="form_class" >
+         <form action="{% url 'user_login' %}" method="post" name="form_name" id="form_id" class="form_class" >
           {% csrf_token%}
           <div class="px-4 my-3 text-center">
             <h5 class="title-3">Enter Your Access Code</h5>
